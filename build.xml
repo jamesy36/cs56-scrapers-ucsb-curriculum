@@ -61,7 +61,7 @@
 	  <mkdir dir="build/jar"/>
 	  <jar destfile="${jar.file}" basedir="build">
 	    <manifest>
-              <attribute name="Main-Class" value="edu.ucsb.cs56.projects.scrapers.ucsb_curriculum.UCSBCurriculumSearch"/>
+              <attribute name="Main-Class" value="edu.ucsb.cs56.projects.scrapers.ucsb_curriculum.UCSBgui"/>
 	    </manifest>
 	  </jar>
 	</target>

@@ -40,6 +40,7 @@ public class UCSBgui{
 			
 			frame = new JFrame();
 			
+			
 			/* 
 			 TODO: scrape the subject, years, and course levels so
 			 that if the website makes changes, it reflects in the program
